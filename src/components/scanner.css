@@ -1,0 +1,17 @@
+#reader{
+    display: flex;
+    justify-content: center;
+}
+video {
+    width: calc(50%);
+    height: calc(50%);
+}
+canvas{
+    width: calc(0%);
+    height: calc(0%)
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
